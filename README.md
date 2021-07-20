@@ -16,5 +16,5 @@ Poker game in C# that uses string manipulation and methods to play poker against
 - The only time you can see your opponent's cards is if you or they bet all in and at the end of the game before the winner is announced.
 - The game will continue until either of you have bet all in and lost all your pucks, but you have the option to quit at the end of every round.
 
-## Thank for reading!
+## Thanks for reading!
 This was my first major project that I ever coded in any language, so I hope you enjoy it!
