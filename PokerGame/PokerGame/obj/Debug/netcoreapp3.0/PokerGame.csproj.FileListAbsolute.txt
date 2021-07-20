@@ -1,0 +1,33 @@
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.exe
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.deps.json
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.runtimeconfig.json
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.runtimeconfig.dev.json
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.dll
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.pdb
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\PokerGame\PokerGame\obj\Debug\netcoreapp3.0\PokerGame.csprojAssemblyReference.cache
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\PokerGame\PokerGame\obj\Debug\netcoreapp3.0\PokerGame.AssemblyInfoInputs.cache
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\PokerGame\PokerGame\obj\Debug\netcoreapp3.0\PokerGame.AssemblyInfo.cs
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\PokerGame\PokerGame\obj\Debug\netcoreapp3.0\PokerGame.dll
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\PokerGame\PokerGame\obj\Debug\netcoreapp3.0\PokerGame.pdb
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.exe
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.deps.json
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.runtimeconfig.json
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.runtimeconfig.dev.json
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.dll
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.pdb
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\PokerGame\PokerGame\obj\Debug\netcoreapp3.0\PokerGame.csprojAssemblyReference.cache
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\PokerGame\PokerGame\obj\Debug\netcoreapp3.0\PokerGame.AssemblyInfoInputs.cache
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\PokerGame\PokerGame\obj\Debug\netcoreapp3.0\PokerGame.AssemblyInfo.cs
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\PokerGame\PokerGame\obj\Debug\netcoreapp3.0\PokerGame.dll
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\PokerGame\PokerGame\obj\Debug\netcoreapp3.0\PokerGame.pdb
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\StringManipulationPoker\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.exe
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\StringManipulationPoker\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.deps.json
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\StringManipulationPoker\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.runtimeconfig.json
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\StringManipulationPoker\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.runtimeconfig.dev.json
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\StringManipulationPoker\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.dll
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\StringManipulationPoker\PokerGame\PokerGame\bin\Debug\netcoreapp3.0\PokerGame.pdb
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\StringManipulationPoker\PokerGame\PokerGame\obj\Debug\netcoreapp3.0\PokerGame.csprojAssemblyReference.cache
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\StringManipulationPoker\PokerGame\PokerGame\obj\Debug\netcoreapp3.0\PokerGame.AssemblyInfoInputs.cache
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\StringManipulationPoker\PokerGame\PokerGame\obj\Debug\netcoreapp3.0\PokerGame.AssemblyInfo.cs
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\StringManipulationPoker\PokerGame\PokerGame\obj\Debug\netcoreapp3.0\PokerGame.dll
+C:\Users\qiaos\OneDrive - De La Salle College Oaklands\ICS2Ob\Unit 3  Intro to Programming II\0 PokerGame Final Project\StringManipulationPoker\PokerGame\PokerGame\obj\Debug\netcoreapp3.0\PokerGame.pdb

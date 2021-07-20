@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\qiaos\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\qiaos\\.nuget\\packages"
+    ]
+  }
+}
